@@ -1,0 +1,7 @@
+Guy Janssen;42
+Cindy Vancranendonck;44
+Vince Janssen;5
+Rene Vancraenendonck;88
+Carine Ruts;67
+Gustaaf Janssen;69
+Maria Ruts;85
